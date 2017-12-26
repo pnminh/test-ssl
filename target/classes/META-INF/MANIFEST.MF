@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Built-By: MP033791
-Build-Jdk: 1.8.0_112
-Created-By: Maven Integration for Eclipse
-Main-Class: com.cerner.hdxts.test.SSLTest
-
